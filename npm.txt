@@ -1,0 +1,2 @@
+npm init -y -> for initialize node package module
+npm install cloudinary cors dotenv express mongoose nodemon openai
